@@ -1,0 +1,3 @@
+var _$_f46a=["------------------------------------------------------------------------------","index.html","<a href=\"","plink","\">","name","</a>","append","#marquee","last","a","children","length"," - ","left","marquee","ready"];$(document)[_$_f46a[16]](function(){var _0x5ADE=[{name:_$_f46a[0],plink:_$_f46a[1]}];for(var _0x5B16 in _0x5ADE){var _0x5B4E=_0x5ADE[_0x5B16];$(_$_f46a[8])[_$_f46a[7]](_$_f46a[2]+ _0x5B4E[_$_f46a[3]]+ _$_f46a[4]+ _0x5B4E[_$_f46a[5]]+ _$_f46a[6]);var _0x5B4E=$(_$_f46a[8])[_$_f46a[11]](_$_f46a[10])[_$_f46a[9]]();if(_0x5B16!= _0x5ADE[_$_f46a[12]]- 1){$(_$_f46a[8])[_$_f46a[7]](_$_f46a[13])}};$(_$_f46a[8])[_$_f46a[15]]({duration:15000,gap:310,delayBeforeStart:0,direction:_$_f46a[14],duplicated:true})})
+/* deykun pomogi */
+
